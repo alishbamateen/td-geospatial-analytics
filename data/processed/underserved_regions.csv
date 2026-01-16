@@ -1,0 +1,10 @@
+region_id,region_name,province,population,regional_demand,demand_score,branch_count,total_branch_capacity,capacity_gap,coverage_status
+RG014,Richmond,British Columbia,410089,232029,3.37,9,70539,161490,Underserved
+RG007,Hamilton,Ontario,339450,260527,2.89,7,57232,203295,Underserved
+RG001,Toronto Central,Ontario,441182,262301,2.81,9,82403,179898,Underserved
+RG006,Brampton,Ontario,385463,156977,2.57,4,38198,118779,Underserved
+RG004,Toronto West,Ontario,438349,215203,2.47,5,34067,181136,Underserved
+RG013,Surrey,British Columbia,368408,265674,2.4,7,58341,207333,Underserved
+RG012,Burnaby,British Columbia,234245,150656,2.32,3,19017,131639,Underserved
+RG003,Toronto East,Ontario,387827,208758,2.24,8,59798,148960,Underserved
+RG010,Vancouver East,British Columbia,228954,113186,2.14,3,34963,78223,Underserved

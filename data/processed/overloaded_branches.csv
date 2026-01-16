@@ -1,0 +1,55 @@
+branch_id,province,latitude,longitude,staff_count,branch_type,opening_year,monthly_transactions,transactions_per_staff,region_id,region_name,load_status
+BR0002,Ontario,44.114582,-79.1001,18,Express,1998,14111,784.0,RG008,Ottawa,High
+BR0004,Ontario,43.454562,-78.766382,19,Full Service,2006,14096,742.0,RG005,Mississauga,High
+BR0005,Ontario,43.728073,-77.052588,17,Full Service,2010,12998,765.0,RG002,Toronto North,High
+BR0006,Ontario,44.140175,-76.359296,19,Full Service,2019,14394,758.0,RG002,Toronto North,High
+BR0007,Ontario,45.149851,-76.77877,16,Full Service,1998,11792,737.0,RG001,Toronto Central,High
+BR0008,Ontario,45.41408,-76.266411,16,Full Service,1996,12555,785.0,RG007,Hamilton,High
+BR0010,Ontario,45.273301,-78.46488,15,Express,2000,13805,920.0,RG006,Brampton,Critical
+BR0011,Ontario,44.366776,-78.760582,19,Flagship,1998,14534,765.0,RG001,Toronto Central,High
+BR0012,Ontario,43.221231,-78.716069,15,Express,2007,11529,769.0,RG008,Ottawa,High
+BR0014,Ontario,43.039091,-77.806394,8,Full Service,2018,8258,1032.0,RG002,Toronto North,Critical
+BR0017,Ontario,43.158896,-78.256071,12,Express,2002,13965,1164.0,RG003,Toronto East,Critical
+BR0028,Ontario,45.406118,-78.492871,9,Express,1999,6696,744.0,RG004,Toronto West,High
+BR0030,Ontario,43.696616,-75.866936,9,Full Service,2000,8535,948.0,RG001,Toronto Central,Critical
+BR0035,Ontario,43.240441,-75.737907,15,Full Service,2012,14111,941.0,RG008,Ottawa,Critical
+BR0037,Ontario,44.388002,-77.381398,9,Flagship,2006,7548,839.0,RG003,Toronto East,High
+BR0042,Ontario,44.629903,-78.602923,8,Full Service,2008,12492,1562.0,RG004,Toronto West,Critical
+BR0045,Ontario,44.216855,-75.875605,9,Full Service,1995,10022,1114.0,RG002,Toronto North,Critical
+BR0050,Ontario,43.986729,-76.123147,10,Full Service,2018,10455,1046.0,RG002,Toronto North,Critical
+BR0051,Ontario,44.677859,-78.065413,17,Express,2011,14367,845.0,RG008,Ottawa,High
+BR0054,Ontario,44.569736,-78.722904,15,Express,2010,13893,926.0,RG007,Hamilton,Critical
+BR0055,Ontario,45.225013,-78.148019,9,Full Service,2017,13174,1464.0,RG005,Mississauga,Critical
+BR0062,British Columbia,49.05486,-122.826154,8,Flagship,2001,12662,1583.0,RG010,Vancouver East,Critical
+BR0067,British Columbia,49.078268,-123.193878,8,Full Service,2007,7611,951.0,RG009,Vancouver Downtown,Critical
+BR0069,British Columbia,49.203151,-122.970653,8,Full Service,2013,14690,1836.0,RG009,Vancouver Downtown,Critical
+BR0070,British Columbia,49.282439,-123.045559,8,Full Service,2005,10723,1340.0,RG014,Richmond,Critical
+BR0072,British Columbia,49.204902,-123.171525,15,Full Service,2004,12817,854.0,RG010,Vancouver East,High
+BR0074,British Columbia,49.188683,-122.849011,11,Full Service,2019,11867,1079.0,RG014,Richmond,Critical
+BR0076,British Columbia,49.111605,-122.889435,12,Full Service,2017,8644,720.0,RG013,Surrey,High
+BR0080,British Columbia,49.147908,-123.166686,12,Full Service,2019,14130,1178.0,RG009,Vancouver Downtown,Critical
+BR0082,British Columbia,49.148326,-123.176976,12,Express,2005,11010,918.0,RG013,Surrey,Critical
+BR0083,British Columbia,49.03512,-123.142803,17,Express,2011,14516,854.0,RG011,Vancouver West,High
+BR0085,British Columbia,49.211873,-123.16746,12,Full Service,2002,12580,1048.0,RG011,Vancouver West,Critical
+BR0086,British Columbia,49.111193,-122.87488,14,Flagship,1998,13019,930.0,RG011,Vancouver West,Critical
+BR0092,British Columbia,49.297889,-123.170481,10,Full Service,2019,9190,919.0,RG013,Surrey,Critical
+BR0093,British Columbia,49.18882,-122.921701,8,Full Service,2016,6330,791.0,RG013,Surrey,High
+BR0096,Alberta,51.035335,-114.024903,12,Flagship,2016,10102,842.0,RG017,Calgary South,High
+BR0105,Alberta,51.020723,-113.936534,15,Full Service,2002,12766,851.0,RG019,Edmonton West,High
+BR0106,Alberta,51.067157,-114.043908,10,Full Service,2006,13176,1318.0,RG016,Calgary North,Critical
+BR0111,Alberta,51.086236,-113.915144,11,Full Service,2011,8449,768.0,RG016,Calgary North,High
+BR0112,Alberta,51.076892,-114.180129,12,Flagship,2015,8569,714.0,RG015,Calgary Downtown,High
+BR0115,Alberta,51.018188,-114.0963,10,Express,2012,9777,978.0,RG017,Calgary South,Critical
+BR0121,Alberta,51.061825,-114.089326,9,Express,2008,8126,903.0,RG018,Edmonton Central,Critical
+BR0125,Alberta,51.089053,-114.021922,11,Full Service,2003,13348,1213.0,RG016,Calgary North,Critical
+BR0126,Quebec,45.495916,-73.62474,9,Full Service,2002,9891,1099.0,RG022,Montreal West,Critical
+BR0127,Quebec,45.425516,-73.714867,13,Express,1996,14706,1131.0,RG023,Laval,Critical
+BR0128,Quebec,45.471219,-73.504045,12,Flagship,2015,13901,1158.0,RG023,Laval,Critical
+BR0131,Quebec,45.482079,-73.505286,13,Full Service,2005,11195,861.0,RG022,Montreal West,High
+BR0137,Quebec,45.440346,-73.594629,8,Full Service,2003,5832,729.0,RG022,Montreal West,High
+BR0140,Quebec,45.441,-73.686231,8,Express,2016,14835,1854.0,RG024,Quebec City,Critical
+BR0143,Quebec,45.57544,-73.682266,15,Full Service,2002,14789,986.0,RG022,Montreal West,Critical
+BR0144,Quebec,45.579933,-73.61277,8,Express,2009,12184,1523.0,RG021,Montreal East,Critical
+BR0145,Quebec,45.446443,-73.530128,9,Full Service,2002,13343,1483.0,RG021,Montreal East,Critical
+BR0146,Quebec,45.524848,-73.764931,13,Full Service,2013,11135,857.0,RG020,Montreal Central,High
+BR0149,Quebec,45.428626,-73.738637,9,Express,2004,14104,1567.0,RG020,Montreal Central,Critical

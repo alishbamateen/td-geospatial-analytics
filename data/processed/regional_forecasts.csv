@@ -1,0 +1,6 @@
+region_name,province,current_demand,current_capacity,forecast_6mo,projected_gap,monthly_growth,demand_score,branches_needed,staff_needed
+Richmond,British Columbia,232029,70539,265020,194481,976.1323037323037,3.37,19,324
+Hamilton,Ontario,260527,57232,283303,226071,830.6106821106821,2.89,23,377
+Toronto Central,Ontario,262301,82403,300029,217626,997.33861003861,2.81,22,363
+Brampton,Ontario,156977,38198,173390,135192,439.97773487773486,2.57,14,225
+Toronto West,Ontario,215203,34067,241226,207159,725.7099099099098,2.47,21,345

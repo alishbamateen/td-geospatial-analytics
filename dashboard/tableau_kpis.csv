@@ -1,0 +1,10 @@
+Metric,Value,Category
+Total Branches,150.0,Branch Metrics
+Total Regions,24.0,Regional Metrics
+Underserved Regions,9.0,Regional Metrics
+Coverage Rate (%),62.5,Regional Metrics
+Overloaded Branches,54.0,Branch Metrics
+Total Monthly Capacity,1379598.0,Capacity Metrics
+Total Monthly Demand,3854234.0,Capacity Metrics
+Capacity Gap,2474636.0,Capacity Metrics
+Avg Transactions per Staff,662.0,Efficiency Metrics

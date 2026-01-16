@@ -1,0 +1,57 @@
+
+TD BANKING ANALYTICS - TABLEAU DATA DICTIONARY
+==============================================
+
+FILE: tableau_branches.csv
+- branch_id: Unique branch identifier
+- province: Province location
+- region_name: Specific region within province
+- latitude/longitude: Geographic coordinates
+- staff_count: Number of employees
+- branch_type: Full Service, Express, or Flagship
+- monthly_transactions: Average monthly transaction volume
+- transactions_per_staff: Efficiency metric
+- load_status: Critical/High/Moderate/Normal (workload indicator)
+- load_severity: Numeric ranking (4=Critical, 1=Normal)
+
+FILE: tableau_regional_summary.csv
+- region_id: Unique region identifier
+- region_name: Region name
+- province: Province
+- population: Total population in region
+- regional_demand: Monthly transaction demand
+- branch_count: Number of branches in region
+- total_branch_capacity: Combined capacity of all branches
+- capacity_gap: Demand minus capacity (positive = underserved)
+- coverage_status: Underserved/Balanced/Oversupplied
+- demand_score: Composite demand metric (higher = more demand)
+
+FILE: tableau_timeseries.csv
+- date: Month/year
+- region_name: Region
+- transactions: Total monthly transactions
+- digital_transactions: Online/mobile transactions
+- in_branch_transactions: Physical branch transactions
+- digital_percentage: % of transactions that are digital
+
+FILE: tableau_kpis.csv
+- Metric: KPI name
+- Value: KPI value
+- Category: Grouping for filtering
+
+FILE: tableau_expansion_recommendations.csv
+- priority_rank: 1 = highest priority
+- region_name: Target region
+- capacity_gap: Unmet demand
+- branches_needed: Recommended new branches
+- staff_needed: Recommended new hires
+- priority_level: High/Medium/Low
+- recommendation: Action description
+
+FILE: tableau_province_summary.csv
+- province: Province name
+- branch_count: Total branches
+- total_capacity: Combined branch capacity
+- total_demand: Total regional demand
+- capacity_gap: Province-level shortage
+- coverage_ratio: % of demand being met

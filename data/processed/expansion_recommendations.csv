@@ -1,0 +1,10 @@
+Region,Province,Demand_Score,Capacity_Gap,Current_Branches,Recommended_Action
+Toronto Central,Ontario,2.81,179898,9,Add 2-3 branches
+Toronto East,Ontario,2.24,148960,8,Add 1-2 branches
+Toronto West,Ontario,2.47,181136,5,Add 2-3 branches
+Brampton,Ontario,2.57,118779,4,Add 1-2 branches
+Hamilton,Ontario,2.89,203295,7,Add 2-3 branches
+Vancouver East,British Columbia,2.14,78223,3,Add 1 branch or mobile service
+Burnaby,British Columbia,2.32,131639,3,Add 1-2 branches
+Surrey,British Columbia,2.4,207333,7,Add 2-3 branches
+Richmond,British Columbia,3.37,161490,9,Add 2-3 branches

@@ -1,0 +1,25 @@
+region_id,region_name,province,population,median_income,digital_adoption_rate,avg_monthly_transactions,in_branch_preference,small_business_density,demand_score
+RG001,Toronto Central,Ontario,441182,80996,0.771,262301,0.229,423,2.81
+RG002,Toronto North,Ontario,413339,48756,0.563,271340,0.437,854,2.98
+RG003,Toronto East,Ontario,387827,78561,0.725,208758,0.275,110,2.24
+RG004,Toronto West,Ontario,438349,59153,0.598,215203,0.402,122,2.47
+RG005,Mississauga,Ontario,444030,94497,0.85,204849,0.15,240,2.53
+RG006,Brampton,Ontario,385463,89241,0.836,156977,0.164,927,2.57
+RG007,Hamilton,Ontario,339450,64915,0.615,260527,0.385,1256,2.89
+RG008,Ottawa,Ontario,110279,83727,0.801,78132,0.199,1922,1.83
+RG009,Vancouver Downtown,British Columbia,159945,65530,0.682,123756,0.318,1849,2.12
+RG010,Vancouver East,British Columbia,228954,58718,0.573,113186,0.427,1469,2.14
+RG011,Vancouver West,British Columbia,182717,92523,0.81,140388,0.19,1954,2.32
+RG012,Burnaby,British Columbia,234245,82430,0.75,150656,0.25,1554,2.32
+RG013,Surrey,British Columbia,368408,54524,0.565,265674,0.435,216,2.4
+RG014,Richmond,British Columbia,410089,58224,0.569,232029,0.431,1725,3.37
+RG015,Calgary Downtown,Alberta,289690,52973,0.555,156079,0.445,517,1.94
+RG016,Calgary North,Alberta,348512,51783,0.535,202477,0.465,1302,2.78
+RG017,Calgary South,Alberta,296965,90719,0.843,138446,0.157,1624,2.58
+RG018,Edmonton Central,Alberta,268967,91240,0.825,170050,0.175,761,2.04
+RG019,Edmonton West,Alberta,69097,55395,0.559,41877,0.441,948,0.97
+RG020,Montreal Central,Quebec,96163,64816,0.619,54413,0.381,575,0.89
+RG021,Montreal East,Quebec,202638,54916,0.553,105339,0.447,1859,2.24
+RG022,Montreal West,Quebec,307164,86949,0.834,148655,0.166,822,2.17
+RG023,Laval,Quebec,143501,47079,0.526,93274,0.474,1600,1.81
+RG024,Quebec City,Quebec,140397,52311,0.573,59848,0.427,689,1.15

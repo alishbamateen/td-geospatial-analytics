@@ -1,0 +1,10 @@
+priority_rank,region_name,province,population,demand_score,regional_demand,total_branch_capacity,capacity_gap,branch_count,branches_needed,staff_needed,priority_level,recommendation,latitude,longitude
+1,Richmond,British Columbia,410089,3.37,232029,70539,161490,9,16,269,High Priority,"Open 16 new branches, hire 269 staff",49.16700811111111,-122.96595233333333
+2,Hamilton,Ontario,339450,2.89,260527,57232,203295,7,20,339,High Priority,"Open 20 new branches, hire 339 staff",44.453626142857146,-77.66487
+3,Toronto Central,Ontario,441182,2.81,262301,82403,179898,9,18,300,High Priority,"Open 18 new branches, hire 300 staff",44.21718222222222,-77.42812655555556
+4,Brampton,Ontario,385463,2.57,156977,38198,118779,4,12,198,High Priority,"Open 12 new branches, hire 198 staff",44.879388,-78.138306
+5,Toronto West,Ontario,438349,2.47,215203,34067,181136,5,18,302,Medium Priority,"Open 18 new branches, hire 302 staff",44.4624372,-77.5571156
+6,Surrey,British Columbia,368408,2.4,265674,58341,207333,7,21,346,Medium Priority,"Open 21 new branches, hire 346 staff",49.14454657142857,-123.03588085714286
+7,Burnaby,British Columbia,234245,2.32,150656,19017,131639,3,13,219,Medium Priority,"Open 13 new branches, hire 219 staff",49.17495,-123.13275166666666
+8,Toronto East,Ontario,387827,2.24,208758,59798,148960,8,15,248,Medium Priority,"Open 15 new branches, hire 248 staff",43.96296375,-77.0291555
+9,Vancouver East,British Columbia,228954,2.14,113186,34963,78223,3,8,130,Medium Priority,"Open 8 new branches, hire 130 staff",49.172133333333335,-122.97207200000001
