@@ -23,6 +23,16 @@ This project addresses a critical challenge in banking operations: ensuring bran
 
 ---
 
+## 📊 Live Interactive Dashboard
+
+Explore the full interactive Tableau dashboard: [View Live Dashboard](https://public.tableau.com/views/Book1_17685482509600/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Dashboard Features:**
+- Filter by province
+- Interactive map with branch details
+- Real-time KPI metrics
+- Click-through drill-downs
+
 ## 🎯 Business Impact
 
 ### Actionable Recommendations
