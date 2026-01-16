@@ -1,8 +1,3 @@
-"""
-Fix: Assign each branch to a specific region
-This creates realistic branch-region relationships
-"""
-
 import pandas as pd
 import numpy as np
 import sqlite3
@@ -122,9 +117,6 @@ def assign_branches_to_regions():
     conn.commit()
     conn.close()
     
-    print("   ✓ Database updated with region assignments")
-    
-    print("\n✅ Fix complete! Now test the queries again.\n")
 
 if __name__ == "__main__":
     np.random.seed(42)  # For reproducibility

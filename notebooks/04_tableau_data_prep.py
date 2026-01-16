@@ -1,9 +1,3 @@
-"""
-TD Geospatial Analytics - Tableau Data Preparation
-Exports clean, Tableau-ready datasets
-Save as: notebooks/04_tableau_data_prep.py
-"""
-
 import pandas as pd
 import sqlite3
 from datetime import datetime
@@ -12,9 +6,7 @@ print("📊 Preparing data for Tableau Dashboard...\n")
 
 conn = sqlite3.connect('data/td_banking.db')
 
-# ============================================
 # 1. BRANCH PERFORMANCE DATA
-# ============================================
 
 print("🏢 Exporting branch performance data...")
 
@@ -49,9 +41,8 @@ df_branches = pd.read_sql_query("""
 df_branches.to_csv('dashboard/tableau_branches.csv', index=False)
 print(f"   ✓ tableau_branches.csv ({len(df_branches)} records)")
 
-# ============================================
+
 # 2. REGIONAL SUMMARY DATA
-# ============================================
 
 print("\n📍 Exporting regional summary data...")
 
@@ -96,9 +87,7 @@ df_regional = df_regional.merge(region_coords, on='region_id', how='left')
 df_regional.to_csv('dashboard/tableau_regional_summary.csv', index=False)
 print(f"   ✓ tableau_regional_summary.csv ({len(df_regional)} records)")
 
-# ============================================
 # 3. TIME SERIES DATA
-# ============================================
 
 print("\n📈 Exporting time series data...")
 
@@ -121,9 +110,7 @@ df_timeseries = pd.read_sql_query("""
 df_timeseries.to_csv('dashboard/tableau_timeseries.csv', index=False)
 print(f"   ✓ tableau_timeseries.csv ({len(df_timeseries)} records)")
 
-# ============================================
 # 4. KPI SUMMARY DATA
-# ============================================
 
 print("\n📊 Creating KPI summary...")
 
@@ -180,9 +167,7 @@ df_kpi = pd.DataFrame(kpi_data)
 df_kpi.to_csv('dashboard/tableau_kpis.csv', index=False)
 print(f"   ✓ tableau_kpis.csv ({len(df_kpi)} records)")
 
-# ============================================
 # 5. EXPANSION RECOMMENDATIONS
-# ============================================
 
 print("\n🎯 Creating expansion recommendations...")
 
@@ -212,9 +197,8 @@ df_expansion_export = df_expansion[[
 df_expansion_export.to_csv('dashboard/tableau_expansion_recommendations.csv', index=False)
 print(f"   ✓ tableau_expansion_recommendations.csv ({len(df_expansion_export)} records)")
 
-# ============================================
+
 # 6. PROVINCE SUMMARY
-# ============================================
 
 print("\n🗺️  Creating province-level summary...")
 

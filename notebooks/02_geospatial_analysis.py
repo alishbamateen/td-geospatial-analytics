@@ -1,9 +1,3 @@
-"""
-TD Geospatial Analytics - Phase 3: Geospatial Analysis
-Creates interactive maps and spatial insights
-Save this as: notebooks/02_geospatial_analysis.ipynb (or run as .py)
-"""
-
 import pandas as pd
 import sqlite3
 import folium

@@ -1,9 +1,3 @@
-"""
-TD Geospatial Analytics - Phase 4: Transaction Forecasting
-Uses simple time series methods to forecast future demand
-Save as: notebooks/03_forecasting_analysis.py
-"""
-
 import pandas as pd
 import numpy as np
 import sqlite3

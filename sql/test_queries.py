@@ -1,7 +1,3 @@
-"""
-Test queries to validate the fixed database
-Shows key insights that TD would care about
-"""
 
 import sqlite3
 import pandas as pd

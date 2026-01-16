@@ -1,9 +1,4 @@
 -- ============================================
--- TD BANKING ANALYTICS - SQL QUERIES
--- Key business questions answered through SQL
--- ============================================
-
--- ============================================
 -- QUERY 1: Regional Transaction Aggregation
 -- Business Question: Which regions have highest transaction volumes?
 -- ============================================

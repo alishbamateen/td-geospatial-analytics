@@ -1,8 +1,3 @@
-"""
-TD Geospatial Analytics - Data Generation Script
-Generates realistic Canadian banking data for analysis
-"""
-
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
