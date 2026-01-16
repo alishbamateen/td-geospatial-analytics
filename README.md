@@ -27,11 +27,20 @@ This project addresses a critical challenge in banking operations: ensuring bran
 
 Explore the full interactive Tableau dashboard: [View Live Dashboard](https://public.tableau.com/views/Book1_17685482509600/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### Preview of Dashboard:
+<img width="621" height="768" alt="Screenshot 2026-01-16 at 2 32 59 AM" src="https://github.com/user-attachments/assets/1275988f-327d-44a0-b283-fe2965abd1c2" />
+
+
 **Dashboard Features:**
 - Filter by province
 - Interactive map with branch details
 - Real-time KPI metrics
 - Click-through drill-downs
+
+
+## 🗺️ Live Interactive Map
+
+Explore the interactive branch map: [View Live Map](https://alishbamateen.github.io/td-geospatial-analytics/data/processed/branch_demand_map.html)
 
 ## 🎯 Business Impact
 
